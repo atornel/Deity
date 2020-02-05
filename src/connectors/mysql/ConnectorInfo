@@ -1,0 +1,26 @@
+{
+    "name": "mysql",
+    "display-name": "MySQL",
+    "path": "connectors.mysql.mysql",
+    "required": [
+        {
+            "entry-name": "Username",
+            "entry-default": "root",
+            "input-purpose": 0,
+            "entry-keyname": "username"
+        },
+        {
+            "entry-name": "Password",
+            "entry-default": "root",
+            "input-purpose": 8,
+            "visible": false,
+            "entry-keyname": "password"
+        },
+        {
+            "entry-name": "Hostname",
+            "entry-default": "localhost",
+            "input-purpose": 0,
+            "entry-keyname": "host"
+        }
+    ]
+}

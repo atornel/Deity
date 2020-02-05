@@ -1,0 +1,9 @@
+{
+    "enabled-plugins": [
+        [
+            "Plugin",
+            "plugins.demo.demo"
+        ]
+    ],
+    "theme": "themes/default/default.css"
+}

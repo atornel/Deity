@@ -1,0 +1,35 @@
+#iogrid-grid {
+    background-color: black
+}
+
+text {
+    background-color: black;
+    color: white;
+}
+
+#promptframe-input_prompt {
+    font: 14px monospace;
+    color: green;
+    font-weight: bold;
+}
+
+#promptframe-output_prompt {
+    font: 14px monospace;
+    color: red;
+    font-weight: bold;
+}
+
+#promptframe-frozen_input, #promptframe-statuslabel {
+    font-family: monospace;
+    color: white;
+}
+
+#promptframe-statuslabel {
+    font-family: monospace;
+    color: white;
+}
+
+#promptframe-statuslabel_error, #login-error_label {
+    font-family: monospace;
+    color: red;
+}
