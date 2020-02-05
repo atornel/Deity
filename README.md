@@ -22,8 +22,8 @@ to adjust to your habits with common functionalities and keys.
 change and get better.*
 
 # Requirements
- - *Gtk, Gdk, Gio* - Simply, a standard installation of [Gtk(www.gtk.org)]
- - *GtkSource* - For syntax highlighting and other essential features.
+ - *Gtk, Gdk, Gio* - Simply, a standard installation of [Gtk](www.gtk.org)
+ - *GtkSource* - For syntax highlighting and other essential features [Website(https://wiki.gnome.org/Projects/GtkSourceView/)].
  - *Python* - Requires the latest version as possible
 
 ## Connectors
@@ -34,4 +34,4 @@ change and get better.*
  - `cd src`
  - Launch `Deity.py`
  
- 
+ # The app is still in development ! Any help appreciated
