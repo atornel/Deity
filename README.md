@@ -1,5 +1,6 @@
 # Deity
 Deity is a fun and fast-packed database management application. It lets you query, create, update, delete and all other perimitted operations on your favourite database system.
+
 # Features
   - *Universal* - Supports all type of databases provided there is a proper
 API
@@ -19,3 +20,18 @@ to adjust to your habits with common functionalities and keys.
 
 *The application is continuously evolving, so the given set of features may
 change and get better.*
+
+# Requirements
+ - *Gtk, Gdk, Gio* - Simply, a standard installation of [Gtk(www.gtk.org)]
+ - *GtkSource* - For syntax highlighting and other essential features.
+ - *Python* - Requires the latest version as possible
+
+## Connectors
+ - *MySQL* - To connect to MySQL databases, you need `mysql-connector`
+ 
+# Running
+ - Clone the repository
+ - `cd src`
+ - Launch `Deity.py`
+ 
+ 
