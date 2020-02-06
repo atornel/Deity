@@ -2,8 +2,11 @@
 Deity is a fun and fast-packed database management application. It lets you query, create, update, delete and all other perimitted operations on your favourite database system.
 
 # Screenshots
+1. An ideal query
 ![](https://github.com/atornel/Deity/blob/master/screenshots/Ideal%20query%202.png)
+2. Again another ideal query
 ![](https://github.com/atornel/Deity/blob/master/screenshots/Ideal%20query%203.png)
+3. Query put on waiting list
 ![](https://github.com/atornel/Deity/blob/master/screenshots/Query%20on%20hold.png)
 
 # Features
