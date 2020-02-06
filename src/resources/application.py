@@ -43,7 +43,9 @@ class Application(Gtk.Application):
 
         self.history = []  # Stores the queries of current session
         self.iogrid = IOGrid(connector.get_language())
-        self.notebook = Gtk.Notebook(name="output-notebook")
+        self.notebook = Gtk.Notebook(name="output-notebook",
+                                     enable_popup=True,
+                                     scrollable=True)
         self.other = {}
         self.statuslabel = Gtk.Label(halign=1,
                                      height_request=25,
