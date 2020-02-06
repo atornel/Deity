@@ -1,6 +1,11 @@
 # Deity
 Deity is a fun and fast-packed database management application. It lets you query, create, update, delete and all other perimitted operations on your favourite database system.
 
+# Screenshots
+![](https://github.com/atornel/Deity/blob/master/screenshots/Ideal%20query%202.png)
+![](https://github.com/atornel/Deity/blob/master/screenshots/Ideal%20query%203.png)
+![](https://github.com/atornel/Deity/blob/master/screenshots/Query%20on%20hold.png)
+
 # Features
   - *Universal* - Supports all type of databases provided there is a proper
 API
@@ -23,7 +28,7 @@ change and get better.*
 
 # Requirements
  - *Gtk, Gdk, Gio* - Simply, a standard installation of [Gtk](www.gtk.org)
- - *GtkSource* - For syntax highlighting and other essential features [Website(https://wiki.gnome.org/Projects/GtkSourceView/)].
+ - *GtkSource* - For syntax highlighting and other essential features ([Website](https://wiki.gnome.org/Projects/GtkSourceView/)).
  - *Python* - Requires the latest version as possible
 
 ## Connectors
